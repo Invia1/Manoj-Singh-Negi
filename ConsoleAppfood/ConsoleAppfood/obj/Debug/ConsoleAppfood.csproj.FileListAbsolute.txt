@@ -1,8 +1,0 @@
-C:\Users\InviaILC\source\repos\ConsoleAppfood\ConsoleAppfood\bin\Debug\ConsoleAppfood.exe.config
-C:\Users\InviaILC\source\repos\ConsoleAppfood\ConsoleAppfood\bin\Debug\ConsoleAppfood.exe
-C:\Users\InviaILC\source\repos\ConsoleAppfood\ConsoleAppfood\bin\Debug\ConsoleAppfood.pdb
-C:\Users\InviaILC\source\repos\ConsoleAppfood\ConsoleAppfood\obj\Debug\ConsoleAppfood.csproj.AssemblyReference.cache
-C:\Users\InviaILC\source\repos\ConsoleAppfood\ConsoleAppfood\obj\Debug\ConsoleAppfood.csproj.SuggestedBindingRedirects.cache
-C:\Users\InviaILC\source\repos\ConsoleAppfood\ConsoleAppfood\obj\Debug\ConsoleAppfood.csproj.CoreCompileInputs.cache
-C:\Users\InviaILC\source\repos\ConsoleAppfood\ConsoleAppfood\obj\Debug\ConsoleAppfood.exe
-C:\Users\InviaILC\source\repos\ConsoleAppfood\ConsoleAppfood\obj\Debug\ConsoleAppfood.pdb
