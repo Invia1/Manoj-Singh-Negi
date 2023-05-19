@@ -1,0 +1,8 @@
+C:\Users\InviaILC\source\repos\Project2\Project2\bin\Debug\Project2.exe.config
+C:\Users\InviaILC\source\repos\Project2\Project2\bin\Debug\Project2.exe
+C:\Users\InviaILC\source\repos\Project2\Project2\bin\Debug\Project2.pdb
+C:\Users\InviaILC\source\repos\Project2\Project2\obj\Debug\LinqAssignment.csproj.AssemblyReference.cache
+C:\Users\InviaILC\source\repos\Project2\Project2\obj\Debug\LinqAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\InviaILC\source\repos\Project2\Project2\obj\Debug\LinqAssignment.csproj.CoreCompileInputs.cache
+C:\Users\InviaILC\source\repos\Project2\Project2\obj\Debug\Project2.exe
+C:\Users\InviaILC\source\repos\Project2\Project2\obj\Debug\Project2.pdb
